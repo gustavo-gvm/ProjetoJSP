@@ -96,7 +96,7 @@
     </div>
   </div>
 
-  <script type="text/Javascript" src="lib/js/validacaoForm.js"></script>
+  <script type="text/Javascript" src="src/js/validacaoForm.js"></script>
 
 </body>
 </html>
