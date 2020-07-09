@@ -1,4 +1,4 @@
-### SENAC-ProjetoJSP
+### ProjetoJSP
 
 Projeto em JSP desenvolvido no curso de Análise e Desenvolvimento de Siemas.
 
